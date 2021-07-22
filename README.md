@@ -1,4 +1,4 @@
-# C-software-using-DS-Algorithms
+# Cpp-software-using-DS-Algorithms
 The project will basically represent a code/software using which we can store the details of the qurantined persons staying at any quarantine centre during COVID-19 pandemic.
 As some nationwide lockdown norms have been relieved and migrants/ labourers stranded at remote localities are heading back towards their home, demands for quarantine centres have gone up manifold. To deal with this large influx, district administration  has decided to make quarantine centre at the hostel’s of NIT-Silchar.
 Quarantine facility at NIT-Silchar can accommodate a maximum of 500 people.
